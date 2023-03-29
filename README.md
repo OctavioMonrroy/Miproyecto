@@ -1,3 +1,3 @@
 # Miproyecto
 
-Este es mi proyecto README.md donde explico mi proyecto 
+Este es mi archivo README.md donde explico mi proyecto 
